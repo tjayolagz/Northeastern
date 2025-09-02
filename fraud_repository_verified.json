@@ -1,0 +1,212 @@
+[
+  {
+    "id": "11010001",
+    "Scam Tactic": "Ponzi Schemes",
+    "News Article": "https://www.fbi.gov/news/stories/9-million-renewable-energy-ponzi-scheme",
+    "Date of Article": "20/11/2023",
+    "Article Summary": "The FBI outlines how a renewable\u2011energy investment fraud run by an\nadult male organizer raised over $8\u20139 million from 2014\u20132019 by\nclaiming to build anaerobic digesters on dairies. Investors were\npromised high returns tied to biogas, renewable energy credits, and\ntax incentives. The organizer used fake construction photos, altered\nbank letters, fabricated power\u2011generation reports, and staged site\nvisits to create legitimacy. Victim profile: adult investors seeking\ngreen\u2011energy opportunities (ages/sex/veteran status not specified).\nOpportunity: 'green' projects with guaranteed yields. Methods/tools:\nemail updates, lulling payments, industry contacts; value transfer via\nwires/checks; concealment through aliases, false documents, and paying\nold investors with new funds. Detection: investor complaints,\nlawsuits, and FBI/IRS financial tracing that led to prosecution and\nrestitution orders. Personally identifiable information removed.",
+    "tags": [
+      "guaranteedreturns",
+      "greenenergy",
+      "securedinvestment",
+      "limitedspots",
+      "monthlypayouts"
+    ]
+  },
+  {
+    "id": "11020001",
+    "Scam Tactic": "Digital Currency Scams",
+    "News Article": "https://www.reuters.com/investigates/special-report/fintech-crypto-fraud-thailand/",
+    "Date of Article": "23/11/2023",
+    "Article Summary": "Reuters documented transnational 'pig\u2011butchering' scams that groom\nvictims online over weeks or months, then direct them to fake\ncrypto\u2011trading platforms. One detailed case involves a 71\u2011year\u2011old\nU.S. victim groomed by a persona who posed as a mentor and romantic\ninterest; funds flowed through crypto wallets to a bank account in\nThailand. Victim profile: adults worldwide, sometimes older or\nisolated (full demographics not consistently disclosed). Opportunity:\nhigh\u2011return crypto trading or staking with screenshots showing fake\nprofits. Methods/tools: chat apps, long\u2011con social engineering, fake\nexchange apps, and referral 'VIP groups'; value transfer via crypto\nand bank wires; concealment via layered wallets and shell entities.\nDetection: investigative blockchain tracing and coordinated\nlaw\u2011enforcement actions. PII removed.",
+    "tags": [
+      "VIPgroup",
+      "instantprofits",
+      "trustedplatform",
+      "limitedtimeoffer",
+      "liquiditymining"
+    ]
+  },
+  {
+    "id": "12030001",
+    "Scam Tactic": "Counterfeit Product Scams",
+    "News Article": "https://theindustry.beauty/cosrx-issues-warning-over-rise-in-counterfeit-products-on-social-media/",
+    "Date of Article": "13/09/2023",
+    "Article Summary": "COSRX warned of rising counterfeit beauty products sold via social\nmedia and unauthorized marketplaces. Fakes mimic logos and packaging\nclosely, making it difficult for consumers to distinguish them from\ngenuine goods. Victim profile: online beauty shoppers (specific\nages/sex not provided). Opportunity: trending skincare 'dupes' at\nunusually low prices. Methods/tools: deceptive listings,\ninfluencer\u2011style posts, and unauthorized resellers; value transfer via\nin\u2011app and marketplace payments; concealment through fast\u2011cycling\nseller accounts, mislabeling, and look\u2011alike packaging. Detection:\nbrand monitoring, consumer complaints, and platform takedowns. PII\nremoved.",
+    "tags": [
+      "officialstoreonly",
+      "limitedstock",
+      "brandnew",
+      "factorysealed",
+      "authenticguarantee"
+    ]
+  },
+  {
+    "id": "12040001",
+    "Scam Tactic": "Ticket Scams",
+    "News Article": "https://bobsullivan.net/gotchas/2023-is-the-summer-of-the-mega-concert-and-mega-ticket-scams/",
+    "Date of Article": "23/08/2023",
+    "Article Summary": "A consumer investigation highlighted a surge in ticket fraud during\nthe 2023 'mega\u2011concert' season. Victims reported losing money when\nattempting to buy sold\u2011out tickets via social posts and classifieds.\nVictim profile: concertgoers facing scarcity and pressure (detailed\ndemographics not disclosed). Opportunity: 'face\u2011value' or 'no\u2011fees'\ntickets for high\u2011demand events. Methods/tools: fake listings, imposter\nbrokers, QR/barcode screenshots, and requests for Zelle/Cash App/gift\ncards; value transfer via peer\u2011to\u2011peer apps; concealment by deleting\naccounts or using look\u2011alike domains. Detection: victim reports and\nmedia scrutiny; platforms issue warnings. PII removed.",
+    "tags": [
+      "facevalue",
+      "verifiedseller",
+      "instanttransfer",
+      "nofees",
+      "actnow"
+    ]
+  },
+  {
+    "id": "12050001",
+    "Scam Tactic": "Fake Antivirus Software",
+    "News Article": "https://www.foxnews.com/tech/dont-fall-latest-antivirus-protection-scam",
+    "Date of Article": "25/08/2023",
+    "Article Summary": "A consumer tech advisory described pop\u2011ups and phishing emails that\nimpersonate security brands and pressure users into buying sham\nantivirus or granting remote access. A common script claims a\nsubscription has expired and urges immediate action. Victim profile:\ngeneral consumers, including older adults (precise demographics not\nprovided). Opportunity: urgent malware 'cleanup' and protection.\nMethods/tools: browser pop\u2011ups, spoofed emails, and call\u2011support\nnumbers; value transfer via card payments; concealment through shell\ncompanies and domain churn. Detection: user complaints, credit\u2011card\ndisputes, and regulatory actions. PII removed.",
+    "tags": [
+      "urgentsecurityalert",
+      "subscriptionexpired",
+      "callsupportnow",
+      "activateprotection",
+      "refundeligible"
+    ]
+  },
+  {
+    "id": "11010002",
+    "Scam Tactic": "Ponzi Schemes",
+    "News Article": "https://www.sec.gov/newsroom/press-releases/2025-98-sec-charges-georgia-based-first-liberty-building-loan-its-owner-operating-140-million-ponzi-scheme",
+    "Date of Article": "11/07/2025",
+    "Article Summary": "The SEC filed an emergency action against a Georgia lending firm and\nits owner for allegedly running a $140 million Ponzi scheme affecting\napproximately 300 investors. Investors were promised high\u2011interest,\nasset\u2011backed returns; funds were allegedly diverted to repay earlier\ninvestors and for personal use. Victim profile: broad retail investor\nbase (detailed ages/sex not disclosed). Opportunity: private lending\nwith reliable monthly payouts. Methods/tools: offering materials,\naccount statements, and continual recruiting; value transfer via\ninvestor wires; concealment via circular repayments and\nmisrepresentations. Detection: SEC investigation and bank\u2011record\nanalysis. PII removed.",
+    "tags": [
+      "assetbacked",
+      "highyield",
+      "monthlypayouts",
+      "limitedavailability",
+      "guaranteedinterest"
+    ]
+  },
+  {
+    "id": "11010003",
+    "Scam Tactic": "Ponzi Schemes",
+    "News Article": "https://www.justice.gov/usao-ndca/pr/former-east-bay-financial-advisor-charged-allegedly-operating-long-running-95-million",
+    "Date of Article": "21/07/2025",
+    "Article Summary": "A federal grand jury indicted a former Bay Area financial adviser for\nan alleged $9.5 million investment fraud that paid earlier investors\nwith new deposits while assuring clients their funds were safely\ninvested. Victim profile: advisory clients (detailed demographics not\ndisclosed). Opportunity: safe, high\u2011return investments. Methods/tools:\nfabricated account statements and lulling communications; value\ntransfer via wires/checks; concealment by continual recruitment and\nmisstatements. Detection: investor complaints and law\u2011enforcement\nfinancial analysis. PII removed.",
+    "tags": [
+      "safeguarantee",
+      "exclusivefund",
+      "quarterlydividend",
+      "principalprotected",
+      "lowriskhighreturn"
+    ]
+  },
+  {
+    "id": "11020002",
+    "Scam Tactic": "Digital Currency Scams",
+    "News Article": "https://www.justice.gov/usao-sdny/pr/former-law-firm-partner-sentenced-10-years-prison-laundering-400-million-onecoin-fraud",
+    "Date of Article": "25/01/2024",
+    "Article Summary": "A former law\u2011firm partner was sentenced to 10 years for laundering\nmore than $400 million in proceeds from the fraudulent OneCoin\ncryptocurrency scheme. Victim profile: global retail investors;\nprecise demographics were not provided. Opportunity: 'education\npackages' and tokens claimed to appreciate dramatically.\nMethods/tools: misrepresentations, promotional events, and layered\ntransfers through shell entities; value transfer via crypto and fiat;\nconcealment via complex transaction chains. Detection: multi\u2011agency\ninvestigation and trial conviction. PII removed.",
+    "tags": [
+      "blockchainverified",
+      "educationpackage",
+      "skyhighreturns",
+      "VIPaccess",
+      "limitedslots"
+    ]
+  },
+  {
+    "id": "11020003",
+    "Scam Tactic": "Digital Currency Scams",
+    "News Article": "https://www.justice.gov/archives/opa/pr/crypto-fraud-victims-receive-over-17-million-restitution-bitconnect-scheme",
+    "Date of Article": "12/01/2023",
+    "Article Summary": "A federal court ordered more than $17 million in restitution to\napproximately 800 victims of the BitConnect scheme, which promised\ndaily interest via a purported trading bot. Victim profile: diverse\nglobal investors (age/sex specifics not detailed). Opportunity: crypto\nlending/trading with guaranteed daily returns. Methods/tools: online\npromotions, referral bonuses, and fake performance dashboards; value\ntransfer via crypto wallets and bank wires; concealment by cycling new\ndeposits to repay earlier investors. Detection: DOJ and IRS\u2011CI\ninvestigation leading to prosecutions and restitution. PII removed.",
+    "tags": [
+      "dailyinterest",
+      "autotradingbot",
+      "guaranteedprofit",
+      "joinnow",
+      "referralbonus"
+    ]
+  },
+  {
+    "id": "12030002",
+    "Scam Tactic": "Counterfeit Product Scams",
+    "News Article": "https://www.cbp.gov/newsroom/local-media-release/cbp-officers-seize-counterfeit-skin-creams-and-sharpie-pens-worth-over",
+    "Date of Article": "11/03/2025",
+    "Article Summary": "CBP officers in Philadelphia seized multiple shipments of counterfeit\nanti\u2011aging skin creams and branded pens worth over $30,000 MSRP.\nVictim profile: online consumers purchasing brand\u2011name goods; specific\ndemographics not disclosed. Opportunity: discount 'brand\u2011name'\ncosmetics. Methods/tools: unauthorized trademark use, misleading\npackaging, and online storefronts; value transfer via e\u2011commerce\npayments; concealment with small\u2011parcel shipments and misdeclared\ngoods. Detection: CBP inspections and trademark verification. PII\nremoved.",
+    "tags": [
+      "brandnew",
+      "limitedstock",
+      "officialformula",
+      "authenticdeal",
+      "todayonly"
+    ]
+  },
+  {
+    "id": "12030003",
+    "Scam Tactic": "Counterfeit Product Scams",
+    "News Article": "https://www.wired.com/story/tiktok-shop-fake-scam-products/",
+    "Date of Article": "19/09/2023",
+    "Article Summary": "A report detailed the proliferation of counterfeit products on TikTok\nShop, including fake versions of popular beauty items. Victim profile:\nsocial\u2011commerce shoppers; demographics not specified. Opportunity:\nviral 'dupes' at deep discounts. Methods/tools: deceptive listings by\nunauthorized sellers and influencer\u2011style promotions; value transfer\nvia in\u2011app purchases; concealment via look\u2011alike packaging and rapidly\nchanging seller accounts. Detection: brand monitoring and media\ninvestigation prompting platform actions. PII removed.",
+    "tags": [
+      "officialstore",
+      "authenticguarantee",
+      "lowestprice",
+      "limitedtime",
+      "bestseller"
+    ]
+  },
+  {
+    "id": "12040002",
+    "Scam Tactic": "Ticket Scams",
+    "News Article": "https://www.washingtonpost.com/style/2025/03/05/taylor-swift-eras-stolen-tickets/",
+    "Date of Article": "05/03/2025",
+    "Article Summary": "Authorities alleged that insiders manipulated a ticket vendor's web\nlinks to steal and resell nearly 1,000 event tickets\u2014including for\nTaylor Swift\u2019s tour\u2014earning about $635,000. Victim profile: eventgoers\non secondary markets (demographics not disclosed). Opportunity: access\nto high\u2011demand shows. Methods/tools: insider link manipulation and\ncyber techniques; value transfer via resale proceeds and payment\nplatforms; concealment via third\u2011party resellers and account\nobfuscation. Detection: internal controls and law\u2011enforcement\ninvestigation; affected customers were reimbursed. PII removed.",
+    "tags": [
+      "sellerverified",
+      "instantsend",
+      "transferready",
+      "facevalueonly",
+      "actfast"
+    ]
+  },
+  {
+    "id": "12040003",
+    "Scam Tactic": "Ticket Scams",
+    "News Article": "https://www.actionfraud.police.uk/news/ticket-fraud-alert",
+    "Date of Article": "24/06/2025",
+    "Article Summary": "Action Fraud reported rising losses to ticket fraud, noting \u00a31.6\nmillion lost in 2024 and warning about last\u2011minute social\u2011media\noffers. Victim profile: concert and festival attendees; specifics not\nlisted. Opportunity: sold\u2011out events. Methods/tools: fake social\u2011media\nlistings and requests for bank transfers/payment apps; concealment by\ndeleting accounts post\u2011payment. Detection: victim reports and NFIB\nanalytics prompting public advisories. PII removed.",
+    "tags": [
+      "limitedavailability",
+      "paymentproof",
+      "nocancellation",
+      "instantdelivery",
+      "directtransfer"
+    ]
+  },
+  {
+    "id": "12050002",
+    "Scam Tactic": "Fake Antivirus Software",
+    "News Article": "https://www.ftc.gov/news-events/news/press-releases/2025/03/ftc-sends-more-255-million-consumers-impacted-tech-support-firms-scam",
+    "Date of Article": "10/03/2025",
+    "Article Summary": "The FTC announced $25.5 million in payments to consumers deceived by\ntech\u2011support firms that sold sham security services and fake antivirus\nfixes. Victim profile: broad consumer base, often older adults (not\nexplicitly specified). Opportunity: immediate malware 'cleanup' and\nprotection. Methods/tools: browser pop\u2011ups, cold calls, and\nremote\u2011access sessions; value transfer via card payments and digital\nwallets; concealment via shell companies and refund\u2011resistance\ntactics. Detection: FTC enforcement actions and settlements enabling\nrefunds. PII removed.",
+    "tags": [
+      "systeminfected",
+      "callnow",
+      "activateprotection",
+      "refundprocessing",
+      "verifyidentity"
+    ]
+  },
+  {
+    "id": "12050003",
+    "Scam Tactic": "Fake Antivirus Software",
+    "News Article": "https://www.justice.gov/usao-ct/pr/us-attorneys-office-returns-328573-victim-computer-support-scam",
+    "Date of Article": "07/02/2025",
+    "Article Summary": "The U.S. Attorney\u2019s Office in Connecticut returned $328,573 to a\nvictim of a computer\u2011support scam that began with a fake on\u2011screen\nalert urging contact with 'support.' Scammers gained remote access and\ndirected bank transfers to overseas accounts. Victim profile: adult\nconsumer (specific demographics withheld). Opportunity: urgent\nremediation of an alleged infection. Methods/tools: browser alerts,\nimpersonation, remote\u2011access tools; value transfer via bank wires;\nconcealment through overseas accounts. Detection: bank reporting and\nlaw\u2011enforcement recovery. PII removed.",
+    "tags": [
+      "criticalalert",
+      "remotefix",
+      "verifyaccount",
+      "bankverification",
+      "securityupgrade"
+    ]
+  }
+]
